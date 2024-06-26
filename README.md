@@ -3,8 +3,8 @@
 <!-- # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
 
 ## About me🚀:
-Hello! I'm Ifrah Tariq, a Mern Stack Engineer based in Pakistan👋.
-With a firm grip on the MERN stack🛡️. I am passionate about crafting seamless and innovative solutions that push the boundaries of web development.🤖
+Hello! I'm Ifrah Tariq.👋.
+With a firm grip on the MERN stack🛡️. I am passionate about AI & web development.🤖
 I'm currently diving deep into the DSA. My passion lies in crafting exceptional user experiences, and I actively contribute to open-source projects. Let's collaborate and bring your visions to life! 💻
 
 
