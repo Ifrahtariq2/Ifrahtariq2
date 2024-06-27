@@ -5,6 +5,14 @@
 ## About me🚀:
 Hello! I'm Ifrah Tariq.👋.
 I'm currently diving deep into the DSA. I am looking forward to persuing a career in Computer Science. I'm a passionate tech enthusiast who loves diving into problem-solving. Always looking for new challenges, I thrive on learning about the latest technologies. I'm dedicated to contributing to open-source projects and enjoy crafting innovative products that make a real difference.
+<div align="center">
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-ifrahtariq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ifrahtariq/)](http://www.linkedin.com/in/ifrah-tariq2)
+[![Gmail Badge](https://img.shields.io/badge/-tariqifrah2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tariqifrah2@gmail.com)](mailto:tariqifrah2@gmail.com)
+[![LeetCode Solved Problems](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fiffrahtariqq&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/iffrahtariqq/)
+
+</div>
 
 
 <h1 align="left"> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35px"> Favorite Tech</h1>
