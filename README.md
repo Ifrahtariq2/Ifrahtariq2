@@ -1,10 +1,7 @@
-<h2 align="center"> Hello World! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
+<h1 align="center">Ifrah Tariq</h1>
+<h2 align="center">Aspiring Software Engineer</h2>
 
-<!-- # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
-
-## About me🚀:
-Hello! I'm Ifrah Tariq.👋.
-I'm currently diving deep into the DSA. I am looking forward to persuing a career in Computer Science. I'm a passionate tech enthusiast who loves diving into problem-solving. Always looking for new challenges, I thrive on learning about the latest technologies. I'm dedicated to contributing to open-source projects and enjoy crafting innovative products that make a real difference.
+I’m a dedicated coder, immersed in the world of data structures and algorithms. My goal: to craft innovative solutions and drive technological advancement. I thrive on challenges, constantly seeking new horizons in the dynamic realm of computer science.
 <div align="center">
 
 
