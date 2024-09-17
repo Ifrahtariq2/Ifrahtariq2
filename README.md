@@ -1,7 +1,7 @@
 <h1 align="center">Ifrah Tariq</h1>
 <h2 align="center">Aspiring Software Engineer</h2>
 
-I’m a dedicated coder, immersed in the world of data structures and algorithms. My goal: to craft innovative solutions and drive technological advancement. I thrive on challenges, constantly seeking new horizons in the dynamic realm of computer science.
+I’m a dedicated coder, immersed in the world of data structures and algorithms. My goal is to craft innovative solutions and drive technological advancement. I thrive on challenges, constantly seeking new horizons in the dynamic realm of computer science.
 <div align="center">
 
 
